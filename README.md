@@ -3,7 +3,7 @@
 It fetches real-time weather data from the OpenWeatherMap API and displays key weather information based on the searched city.
 
  ## Features
-   -**Temperature** (in Celsius)  
+   **Temperature** (in Celsius)  
    **Weather Condition** (e.g., Clear, Rainy, Cloudy)  
    **Humidity** (in %)  
    **Wind Speed** (in km/h)  
