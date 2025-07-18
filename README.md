@@ -10,6 +10,6 @@ It fetches real-time weather data from the OpenWeatherMap API and displays key w
    **Dynamic Weather Image/Icon** based on condition
 
   ## Technologies Used
-   **HTML, CSS** – for responsive and clean user interface, 
+   **HTML, CSS** – for responsive and clean user interface  
    **JavaScript Fetch API** – to fetch real-time data from OpenWeatherMap API.
 
